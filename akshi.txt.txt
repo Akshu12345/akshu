@@ -1,0 +1,26 @@
+Git commands:-
+ 1. git init:- initialized git repository.
+ 2. git config --global user.name "name":- get user name and declare globally.
+ 3. git config --global user.email "email":- get user email and declare globally.
+ 4. git add filename:- add txt file in repository.
+ 5. git commit -m "first commit":- to save only one file of the folder.
+ 6. git log:- tells the author name, email, date and time of repository.
+
+Github commands:-
+ 1. git remote add origin https://github.com/Akshu/assignment.txt:- gives the path of files
+ 2. git push -u originmaster:-add or push the files of master into origin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
